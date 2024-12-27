@@ -16,7 +16,7 @@ Hello! I'm ManticoreGH, a passionate developer with a love for coding and open s
 
 - 🔭 I’m currently working on github-final-project (https://github.com/ManticoreGH/github-final-project)
 - 🌱 I’m currently learning IBM Fullstack developper
-- 📫 How to reach me: sebastien.soufflet@gmail.com
+- 📫 How to reach me: someone@somewhere.com
 
 ## My Skills
 
