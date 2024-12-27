@@ -14,7 +14,7 @@ Output
 
 Hello! I'm ManticoreGH, a passionate developer with a love for coding and open source contributions. I enjoy working on a variety of projects and exploring new technologies.
 
-- 🔭 I’m currently working on github-final-project(https://github.com/ManticoreGH/github-final-project)
+- 🔭 I’m currently working on github-final-project (https://github.com/ManticoreGH/github-final-project)
 - 🌱 I’m currently learning IBM Fullstack developper
 - 📫 How to reach me: sebastien.soufflet@gmail.com
 
