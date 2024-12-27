@@ -14,9 +14,9 @@ Output
 
 Hello! I'm ManticoreGH, a passionate developer with a love for coding and open source contributions. I enjoy working on a variety of projects and exploring new technologies.
 
-- 🔭 I’m currently working on [github-final-project](https://github.com/ManticoreGH/github-final-project)
-- 🌱 I’m currently learning [IBM Fullstack developper]
-- 📫 How to reach me: [sebastien.soufflet@gmail.com]
+- 🔭 I’m currently working on github-final-project(https://github.com/ManticoreGH/github-final-project)
+- 🌱 I’m currently learning IBM Fullstack developper
+- 📫 How to reach me: sebastien.soufflet@gmail.com
 
 ## My Skills
 
@@ -27,9 +27,5 @@ Hello! I'm ManticoreGH, a passionate developer with a love for coding and open s
 ## GitHub Stats
 
 ![ManticoreGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManticoreGH&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManticoreGH&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on something interesting.
